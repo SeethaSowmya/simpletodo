@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffc2a0;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.bg2 {
+  background-color: #ffffff;
+  min-height: 40vh;
+  width: 80%;
+}
+h1 {
+  color: #ff8542;
+}
